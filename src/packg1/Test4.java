@@ -4,6 +4,7 @@ public class Test4 {
     public static void main(String[] args) {
 
         System.out.println("back to git");
+        System.out.println("practicing git");
 
     }
 }
