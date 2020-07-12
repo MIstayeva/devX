@@ -1,6 +1,6 @@
 package packg1;
 
-public class Test3 {
+public class  Test3 {
     public static void main(String[] args) {
         System.out.println("Third file");
         System.out.println("git log changes");
@@ -51,7 +51,7 @@ public class Test3 {
          *      Create class in intelij —> open terminal in intelij
          * U already gonna be in the folder of ur intelij project
          * First step
-         * Git init origin masternit - to initialize new repository in this folder
+         * Git init origin master nit - to initialize new repository in this folder
          * Agter we make changes we call next command —>
          * git add .
          * And then can check status  —> git status
