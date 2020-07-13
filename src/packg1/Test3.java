@@ -44,7 +44,7 @@ public class  Test3 {
          *      *    git add .(Mac) git add *(Windows) - add all the changes to staging
          *      *    git add All -
          *      *    git commit -
-         *      *    git commit ~m "first commit" - to confirm changes
+         *      *    git commit -m "first commit" - to confirm changes
          *      *    git push -
          *      *
          *
