@@ -7,7 +7,9 @@ public class Test4 {
         System.out.println("practicing git");
 
         System.out.println("working with branches");
-        System.out.println("this is branch1");
+        System.out.println("this is branch2");
+
+
 
 
     }
